@@ -9,7 +9,7 @@ header:
   image_fullwidth: wall-e.jpg
 widget1:
   title: "Blog & Portfolio"
-  url: 'http://xeonqq.github.io/blog/'
+  url: 'http://sophia-luo.github.io/blog/'
   image: widget-1-302x182.jpg
   text: 'Machine Learning? Robots? There might be some blogs which interest you!'
 #widget2:
